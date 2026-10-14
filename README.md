@@ -9,7 +9,7 @@ A software developer who enjoys learning and growing through hands-on problem so
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richapatil&label=Profile%20Views&color=0f172a&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=richapatil&style=flat&color=0f172a&label=Profile%20Views" />
 </p>
 
 ---
